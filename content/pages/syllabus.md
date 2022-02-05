@@ -51,31 +51,333 @@ The final grade will be based on: Homework (50%) and in-class exams (50%). Addit
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part I: Particle and Continuum Methods**{{< /td-colspan >}} |||
-| 1 | Introduction | &nbsp; |
-| 2 | Basic molecular dynamics | HW 1 out |
-| 3 | Property calculation I | &nbsp; |
-| 4 | Property calculation II | &nbsp; |
-| 5 | How to model chemical interactions I | HW 1 due |
-| 6 | How to model chemical interactions II | HW 2 out |
-| 7 | Application to modeling brittle materials | &nbsp; |
-| 8 | Reactive potentials and applications I | &nbsp; |
-| 9 | Reactive potentials and applications II | HW 2 due |
-| 10 | Applications to biophysics and bionanomechanics I | &nbsp; |
-| 11 | Applications to biophysics and bionanomechanics II | HW 3 out |
-| 12 | Review session: Preparation for Quiz 1 | &nbsp; |
-| {{< td-colspan 3 >}}**Part II: Quantum Mechanical Methods**{{< /td-colspan >}} |||
-| 13 | It's a quantum world: The theory of quantum mechanics | &nbsp; |
-| 14 | Quantum mechanics (QM): Practice makes perfect | &nbsp; |
-| 15 | From many-body to single-particle: Quantum modeling of molecules | HW 4 out |
-| 16 | Application of quantum mechanics to solar thermal fuels | &nbsp; |
-| 17 | More QM modeling for solar thermal fuels, plus a little H-storage | &nbsp; |
-| 18 | From atoms to solids |  {{< br >}}{{< br >}} HW 4 due {{< br >}}{{< br >}} HW 5 out {{< br >}}{{< br >}}  |
-| 19 | Quantum modeling of solids: Basic properties | &nbsp; |
-| 20 | Advanced properties of materials: What else we can do? | &nbsp; |
-| 21 | Some review and introduction to solar photovoltaics (PV) |  {{< br >}}{{< br >}} HW 5 due {{< br >}}{{< br >}} HW 6 out {{< br >}}{{< br >}}  |
-| 22 | Quiz 2 | &nbsp; |
-| 23 | Solar photovoltaics | &nbsp; |
-| 24 | A bit more solar PV, some verification and validation and a few concluding thoughts | HW 6 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I: Particle and Continuum Methods**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Basic molecular dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+HW 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Property calculation I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Property calculation II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+How to model chemical interactions I
+{{< tdclose >}}
+{{< tdopen >}}
+HW 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+How to model chemical interactions II
+{{< tdclose >}}
+{{< tdopen >}}
+HW 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Application to modeling brittle materials
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Reactive potentials and applications I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Reactive potentials and applications II
+{{< tdclose >}}
+{{< tdopen >}}
+HW 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Applications to biophysics and bionanomechanics I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Applications to biophysics and bionanomechanics II
+{{< tdclose >}}
+{{< tdopen >}}
+HW 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Review session: Preparation for Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II: Quantum Mechanical Methods**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+It's a quantum world: The theory of quantum mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum mechanics (QM): Practice makes perfect
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+From many-body to single-particle: Quantum modeling of molecules
+{{< tdclose >}}
+{{< tdopen >}}
+HW 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Application of quantum mechanics to solar thermal fuels
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+More QM modeling for solar thermal fuels, plus a little H-storage
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+From atoms to solids
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+HW 4 due
+
+HW 5 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum modeling of solids: Basic properties
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced properties of materials: What else we can do?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Some review and introduction to solar photovoltaics (PV)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+HW 5 due
+
+HW 6 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Solar photovoltaics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+A bit more solar PV, some verification and validation and a few concluding thoughts
+{{< tdclose >}}
+{{< tdopen >}}
+HW 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
