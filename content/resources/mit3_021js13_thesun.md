@@ -4,6 +4,7 @@ description: This file contains information regarding solar spectrum data for pr
   set 5.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/34e2d30a5503082cda87a722951090ac_MIT3_021JS13_thesun.pdf
 file_type: application/pdf
+parent_uid: 9f56b50d-67ff-c7d0-e03c-de3fedeb3c72
 resourcetype: Document
 title: Solar spectrum data for problem set 5
 uid: 34e2d30a-5503-082c-da87-a722951090ac
